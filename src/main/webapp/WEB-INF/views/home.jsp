@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 
 <script type="text/javascript">
-	var	item = "hello";
+	var	item = "hello Sudhakar";
 	var title = prompt("enter title");
 	alert(title);
 </script>
